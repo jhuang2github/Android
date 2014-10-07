@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appFileBrowerEdu</string>
+    <string name="hint">Get File Name From SDCard</string>
+    <string name="editText">EditText</string>
+    <string name="browser">Browser</string>
+</resources>
